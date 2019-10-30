@@ -27,3 +27,5 @@
 4. How can the software developed in this lab cause harm?
 
 5. What solutions could be implemented to avoid the harm or to fix the harm described above?
+
+## Description of the Team Work
